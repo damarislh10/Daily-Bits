@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Josefin+Slab:wght@300&family=Montserrat:wght@300&family=Nunito:wght@200;400&family=Roboto+Mono:wght@200&family=Rubik:wght@500&family=Spartan:wght@900&display=swap');
+:root {
+    --white: #fffffe !important; 
+    --black: #16161a !important; 
+    --primary: #7f5af0; 
+    --secondary: #a786df; 
+    --tertiary: #72757e; 
+    --green: #2cb67d; 
+    --grey: #94a1b2; 
+    --purple: #6b47dc; 
+    --neutral: #232e35; 
+    --red: #ef4565; 
+    --subtitle2: 600 0.75rem/normal Nunito; 
+    --headline-headline1: extrabold 1.5rem/normal Nunito; 
+    --headline-headline2: 700 1.375rem/normal Nunito; 
+    --subtitle-subtitle1: 600 1.125rem/normal Nunito; 
+    --body1-regular: 400 1rem/1.5rem Nunito; 
+    --body1-bold: 700 1rem/1.5rem Nunito; 
+    --body2-regular: 400 0.875rem/normal Nunito; 
+    --body2-bold: 700 0.875rem/normal Nunito; 
+    --button-button: 600 0.875rem/1rem Nunito; 
+    --caption-caption: 400 0.6875rem/normal Nunito; 
+      
+  }
+  
+  body {
+    color: var(--white) !important;
+    background-color: var(--black) !important;
+    font: var(--body1-regular);
+    margin:0;
+    padding: 0;
+  }
+  
+  h1{
+    color: var(--white) !important;
+  }

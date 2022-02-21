@@ -1,0 +1,238 @@
+{
+    "questionHtml": [
+        {
+            "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+            "a": "main",
+            "b": "section",
+            "c": "header",
+            "correcta": "main"
+        },
+        {
+            "question": "¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
+            "a": "<br>",
+            "b": "<script>",
+            "c": "<styles>",
+            "correcta": "<script>"
+        },
+        {
+            "question": "¿Cómo se inserta un comentario en HTML?",
+            "a": "/*A SAMPLE COMMENT*/",
+            "b": "//A SAMPLE COMMENT",
+            "c": "<!-- A SAMPLE COMMENT -->",
+            "correcta": "<!-- A SAMPLE COMMENT -->"
+        },
+        {
+            "question": "¿Qué son los elementos en línea y los elementos a nivel de bloque en HTML?",
+            "a": "Los elementos en bloque se ajusta a su contenido y en linea no",
+            "b": "Los elementos de bloque son los bloques que toman todo el ancho disponible de la pantalla y en linea se ajusta a su contenido contenido",
+            "c": "Los elementos en linea toma todo el ancho de la pantalla y en bloque se ajusta a su contenido contenido",
+            "correcta": "Los elementos de bloque son los bloques que toman todo el ancho disponible de la pantalla y en linea se ajusta a su contenido contenido"
+        },
+        {
+            "question": "¿Qué significa DRY?",
+            "a": "Don’t repeat yellow",
+            "b": "Don’t repeat yourself",
+            "c": "Don’t recicle year",
+            "correcta": "Don’t repeat yourself"
+        }
+    ],
+    "questionCss": [
+        {
+            "question": "¿Cuáles de las siguientes declaraciones son propiedades o atributos?",
+            "a": "h1",
+            "b": "background-color",
+            "c": "italic",
+            "correcta": "background-color"
+        },
+        {
+            "question": " ¿Con qué propiedad se define el espacio entre el borde de un elemento y los elementos que lo rodean?",
+            "a": "border",
+            "b": "margin",
+            "c": "padding",
+            "correcta": "margin"
+        },
+        {
+            "question": "¿Cómo se cambia el valor del margen derecho de un elemento?",
+            "a": "text-right",
+            "b": "right-magin",
+            "c": "margin-right",
+            "correcta": "margin-right"
+        },
+        {
+            "question": "¿Qué significa CSS?",
+            "a": "Cascading Style Sheets",
+            "b": "Center Style Steels",
+            "c": "Calibre Style Sheet",
+            "correcta": "Cascading Style Sheets"
+        },
+        {
+            "question": "¿Qué propiedad se emplea para cambiar el tipo de letra de un elemento?",
+            "a": "text-type",
+            "b": "font-type",
+            "c": "font-family",
+            "correcta": "font-family"
+        }
+    ],
+    "questionJs": [
+        {
+            "question": "¿Dentro de cual etiqueta podemos colocar código Javascript?",
+            "a": "<script>",
+            "b": "<scripting>",
+            "c": "<js>",
+            "correcta": "<script>"
+        },
+        {
+            "question": "¿Cómo se envía un mensaje de 'Hola Mundo' a través de una caja de alerta?",
+            "a": "alertBox('Hola Mundo')",
+            "b": "alert('Hola Mundo')",
+            "c": "msg('Hola Mundo')",
+            "correcta": "alert('Hola Mundo')"
+        },
+        {
+            "question": "¿Cual es la sintaxis correcta para crear una función en Javascript?",
+            "a": "function miFuncion(){}",
+            "b": "function:miFuncion(){}",
+            "c": "const miFuncion()=>{}",
+            "correcta": "function miFuncion(){}"
+        },
+        {
+            "question": "¿Cómo se escribe una sentencia if en Javascript?",
+            "a": "if(i == 5){}",
+            "b": "if i == 5",
+            "c": "if i = 5 then",
+            "correcta": "if(i == 5){}"
+        },
+        {
+            "question": "¿Qué tecnologías pertenece al MEVN Stack?",
+            "a": "Angular",
+            "b": "Vue.js",
+            "c": "Windows",
+            "correcta": "Vue.js"
+        }
+    ],
+    "questionFigma": [
+        {
+            "question": "¿Cuál es la URL del sitio web de Figma?",
+            "a": "www.figma.co.th",
+            "b": "www.figma.com",
+            "c": "www.figma.or.th",
+            "correcta": "www.figma.com"
+        },
+        {
+            "question": "¿Cuál es el nombre del dispositivo para mover el objeto en la imagen?",
+            "a": "Escala",
+            "b": "Rodaja",
+            "c": "flecha Muevete",
+            "correcta": "flecha Muevete"
+        },
+        {
+            "question": "¿Cómo se llama la herramienta para crear páginas de trabajo en diferentes plataformas?",
+            "a": "Línea",
+            "b": "Marco",
+            "c": "Lápiz",
+            "correcta": "Marco"
+        },
+        {
+            "question": "¿Cuál es el nombre del complemento para usar el icono?",
+            "a": "iconix",
+            "b": "iconificar",
+            "c": "icono",
+            "correcta": "iconificar"
+        }
+    ],
+    "questionUx": [
+        {
+            "question": "¿que significa ux?",
+            "a": "Intercambio de usuarios",
+            "b": "interfaz de usuario",
+            "c": "Experiencia de usuario",
+            "correcta": "Experiencia de usuario"
+        },
+        {
+            "question": "¿Cuántos sitios web fallan en ux?",
+            "a": "25%",
+            "b": "97%",
+            "c": "56%",
+            "correcta": "97%"
+        },
+        {
+            "question": "Es más probable que un diseñador de ux diga",
+            "a": "Pasemos directamente a la implementaciòn",
+            "b": "Es mejor tener la opiniòn de una persona,que de muchas",
+            "c": "¡vamos a probarlo!",
+            "correcta": "Es mejor tener la opiniòn de una persona,que de muchas"
+        },
+        {
+            "question": "¿Qué es lo más importante al desarrollar productos fáciles de usar?",
+            "a": "Comprensión de los usuarios y sus tareas.",
+            "b": "Siguiendo la guía de estilo",
+            "c": "Hacer que las interfaces sean lo más consistentes posible",
+            "correcta": "Comprensión de los usuarios y sus tareas."
+        },
+        {
+            "question": "¿Cuál de los siguientes es más importante en el diseño centrado en el usuario?",
+            "a": "Gritando al usuario",
+            "b": "Diseño iterativo y pruebas de usuario",
+            "c": "Un proceso de desarrollo orientado a objetos",
+            "correcta": "Diseño iterativo y pruebas de usuario"
+        }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Lizeth",
+            "edad": "20",
+            "correo": "Lizeth@gmail.com",
+            "contraseña": "123",
+            "isAdmin": true
+        },
+        {
+            "id": 2,
+            "nombre": "Jose",
+            "edad": "20",
+            "correo": "Jose@gmail.com",
+            "contraseña": "143",
+            "isAdmin": true
+        },
+        {
+            "id": 3,
+            "nombre": "Monica",
+            "edad": "22",
+            "correo": "monica@gmail.com",
+            "contraseña": "567",
+            "isAdmin": false
+        },
+        {
+            "id": 4,
+            "nombre": "Nicolas",
+            "edad": "25",
+            "correo": "nicolas@gmail.com",
+            "contraseña": "467",
+            "isAdmin": false
+        },
+        {
+            "id": 5,
+            "nombre": "cecilia",
+            "edad": "30",
+            "correo": "cecilia1@gmail.com",
+            "contraseña": "123",
+            "isAdmin": false
+        }
+    ],
+    "estadisticas": [
+        {
+            "id": 1,
+            "user": "Lizeth",
+            "respContestadas": 10,
+            "respCorrectas": 6,
+            "respIncorrectas": 4
+        },
+        {
+            "id": 2,
+            "user": "Mario",
+            "respContestadas": 5,
+            "respCorrectas": 3,
+            "respIncorrectas": 2
+        }
+    ]
+}
