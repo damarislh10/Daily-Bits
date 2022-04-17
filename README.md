@@ -12,7 +12,7 @@ las funciones implementadas fueron: Listar categorias, ver su cuestionario, ver 
 
 ### Las tecnologias implementadas 💻
 
-`HTML / CSS / JavaScript /REACT JS con Hooks y clases / REDUX /FIREBASE / REACT-BOOTSTRAP/`.
+`HTML / CSS / JavaScript /REACT JS con Hooks y clases / REDUX /FIREBASE / REACT-BOOTSTRAP/`
 
 
 ### Clonar repositorio
